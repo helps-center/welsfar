@@ -150,7 +150,7 @@
     <div class="header">
       <span style="
     font-size: 28px;
-">Wel̥ls Fargō</span>
+">Wells Fargo</span>
         <div>
             <a href="#">Enroll</a>
             <a href="#">Customer Service</a>
